@@ -1,2 +1,2 @@
 # MyCourt
-This is MyCourt booking website
+This is MyCourt booking website.
